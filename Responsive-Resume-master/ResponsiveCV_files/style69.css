@@ -1,0 +1,195 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+.container{
+    width: 100%;
+    min-height:100vh ;
+    padding-left: 8%;
+    padding-right:8% ;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.navbar{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+.logo{
+    justify-self: center;
+    align-self: center;
+    width: 400px;
+    height: 100px;
+    cursor: pointer;
+}
+nav{
+    flex: 1;
+    text-align: right;
+    
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 30;
+}
+nav ul li a{
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: large;
+    font-weight: bolder;
+    color: orangered;
+
+}
+nav ul li a:hover{
+    color: brown;
+    font-style: italic;
+    font-size: larger;}
+
+.micon{
+    height: 40px;
+    width: 40px;
+    display: none;
+    cursor: pointer;
+}
+
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 0;
+}
+.col1{
+flex-basis:40%;
+position: relative;
+margin-left: 15%;
+}
+.col1 h1{
+color: orangered;
+
+}
+.cvbutton{
+border: solid 2px orangered;
+width: 140px;
+padding: 12px 10px;
+background-color: #ff4500;
+border-radius: 10px;
+margin: 20px;
+}
+.cvbutton a{
+text-decoration: none;
+color: black;
+font-style: bold;
+cursor: pointer;
+
+}
+
+.col1::after{
+content: '';
+width: 10px;
+
+height: 57%;
+background: linear-gradient(orangered , orange);
+position: absolute;
+left: -40px;
+top: 8px;}
+
+.col2 .dp{
+width: 90% ;
+border-radius: 100px;
+
+}
+table{
+margin: 10px;
+width: 100%;
+align-items: center;
+}
+
+div ul li{
+padding: 20px;
+margin: 20px;
+}
+.row1,.row2,.row3,.row4,.row5,.row6,.row7{
+
+font-size: medium;
+background: linear-gradient(orangered , orange);
+border-radius: 30px;
+border: solid 2px;
+margin: 30px;
+font: bolder;
+font-size: large;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding: 50px;
+}
+
+
+
+
+@media only screen and (max-width: 600px){
+    *{
+        margin: 0px
+        padding: 0px;
+    }
+    .logo{
+        width: 200px;
+        height: 100px;
+        cursor: pointer;
+        margin: 5px 0;
+    }
+   .micon{
+       display: block;
+       
+   }
+   .navbar{
+       justify-content: space-between;
+   }
+   nav{
+       display: none;
+   }
+    nav ul 
+    {  
+        width: 100%;
+       background-color: #ff4500; 
+        position: absolute;
+        top:75px;
+        right: 0;
+        z-index: 2;
+        
+        
+        
+    }
+    .dp{
+        height: 100px;
+        width: 150px;
+
+
+    }
+    
+   
+    .row2,.row3,.row4,.row5,.row6,.row7{
+
+        font-size: small;
+        background: antiquewhite;
+        border-radius: 30px;
+        border: solid 2px;
+        margin: 10px;
+        font: bolder;
+        font-size: small;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        padding: 10px;
+    }
+
+}
+
+    .row {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 200px 0;
+    }
+
+
+
+}
