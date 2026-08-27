@@ -1,27 +1,23 @@
 # 👋 Hi, I'm Naga (@shadowwalker1025)
 
-🚀 Software Developer passionate about building interactive 3D applications and solving real-world problems through technology.
+**IIT Guwahati Alumnus | Full-Stack 3D Web Engineer**
 
-💻 Experienced in:
+I am a software developer with over 4 years of experience, passionate about building interactive 3D applications and solving real-world problems through technology. My core expertise lies in bridging the gap between complex 3D data and seamless web experiences.
 
-* JavaScript, Python, React, Node.js
-* Three.js & WebGL-based 3D development
-* DWG/GLTF workflows and 3D infrastructure visualization
-* Full-stack product development
+### 💻 Tech Stack & Expertise
+* **Frontend:** JavaScript, React, Next.js, HTML/CSS
+* **Backend:** Node.js, Express, Python, MongoDB
+* **3D & Visualization:** Three.js, WebGL, custom rendering tools (Polygon Viewers)
+* **Pipelines:** Managing end-to-end CAD/DWG and glTF/GLB workflows
+* **Core Focus:** WebGL memory optimization, debugging complex rendering, and real-time data sync across microservices.
 
-🏗️ Currently working on scalable 3D solutions for infrastructure and interior visualization, helping users estimate materials and design spaces efficiently.
+### 🚀 What I'm Up To
+* 🏗️ **Currently working on:** Scalable 3D solutions for infrastructure and interior visualization, helping users efficiently estimate materials and design spaces.
+* 🌱 **Currently learning:** Advanced system design, Cloud technologies, Docker, Kubernetes, and modern 3D pipelines.
+* 🤝 **Open to collaborating on:** Three.js/WebGL projects, creative 3D experiences, JavaScript-based DSA, and open-source initiatives.
 
-🌱 Continuously learning advanced system design, cloud technologies, Docker, Kubernetes, and modern 3D pipelines.
+### 📫 Let's Connect
+* **Email:** nagendra.tere@gmail.com
+* **Phone:** +91 9085894892
 
-🤝 Open to collaborating on:
-
-* Three.js / WebGL projects
-* Creative 3D experiences
-* JavaScript-based DSA & open-source projects
-
-📫 Reach me at:
-
-* Email: [nagendra.tere@gmail.com](mailto:nagendra.tere@gmail.com)
-* Phone: +91 9085894892
-
-✨ Interested in 3D engineering, animation, AI-driven tools, and innovative product development.
+✨ *Interested in 3D engineering, animation, AI-driven tools, and innovative product development.*
